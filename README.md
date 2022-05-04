@@ -15,7 +15,7 @@ Regressions from COVID-19 Colombia Vaccination Progress with linear, second-orde
 *Y-> vector labels of features. In this case total vaccinations per day.*
 
 **Titanic:**
-Code for find the better method between KNN, SVM and LR(Logistic Regression) in Titanic competition from Kaggle.
+Code for find the better method between KNN, SVM and LR(Logistic Regression) in Titanic competition from Kaggle https://www.kaggle.com/c/titanic.
 
 
 *Features: X -> Age, Pclass, Sex*
