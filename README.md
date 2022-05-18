@@ -23,7 +23,7 @@ Code for find the better method between KNN, SVM and LR(Logistic Regression) in 
 
 *Label: y -> Survived*
 
-**Penguins**
+**Penguins:**
 KNN Classifier using Grid Search and Cross Validate (GridSearchCV) for Palmer Archipelago (Antarctica) penguin data. Available in https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data.
 
 *Features: X -> culmen_length_mm, culmen_depth_mm, flipper_length_mm, body_mass_g, island, sex*
